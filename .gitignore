@@ -1,3 +1,8 @@
-cd FiberTrackPro-FTTH/android
-# Buat file .gitignore di folder android/ jika belum ada
-touch .gitignore
+# Build folders
+/build/
+.gradle/
+/local.properties
+.DS_Store
+
+# IDE files
+.idea/
